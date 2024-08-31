@@ -19,3 +19,5 @@ Create a pull request for your branch to main!
 For [a refresher](https://education.launchcode.org/intro-to-professional-web-dev/chapters/git/index.html) on git and Github
 
 Try [this studio](https://education.launchcode.org/intro-to-professional-web-dev/chapters/git/studio.html) for practice! 
+
+There's a Figma project for this, reach out for an invite
