@@ -10,6 +10,8 @@ Clone the project and run npm install
 
 Run npm run dev to build the project!
 
+Seeing Typscript errors? Make sure your Visual Studio Code is up to date (1.92 is now out)
+
 # Contributing
 
 Move the issue you want to work on to in progress and assign yourself
