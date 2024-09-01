@@ -10,6 +10,9 @@ Run npm run dev to build the project!
 
 Seeing Typscript errors? Make sure your Visual Studio Code is up to date (1.92 is now out)
 
+## Editor setup
+Please configure your editor to format on save using the project's prettier config file
+
 # Contributing
 Move the issue you want to work on to in progress and assign yourself
 Pull the latest changes and checkout a new branch from main, branch naming should be `issueNumber-short-description-of-issue` (ex. `1-add-mui`)
