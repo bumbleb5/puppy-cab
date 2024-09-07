@@ -1,5 +1,10 @@
 import React from 'react';
+import { Paper, Typography } from '@mui/material';
 
 export const Home: React.FC = () => {
-    return <p>HELLO HOME</p>;
+    return (
+        <Paper>
+            <Typography>Hello Home</Typography>
+        </Paper>
+    );
 };
